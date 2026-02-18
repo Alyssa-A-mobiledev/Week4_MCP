@@ -37,7 +37,6 @@ const server = new McpServer({
   name: "notes-server",
   version: "1.0.0",
 });
-
 // ------------------------------------
 // 3. Define the tools
 // ------------------------------------
